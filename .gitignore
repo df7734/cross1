@@ -88,4 +88,3 @@ typings/
 # Electron-Forge
 out/
 dist/
-node_modules/
